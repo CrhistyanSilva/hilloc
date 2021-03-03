@@ -1,0 +1,6 @@
+-r crystack
+pytest
+observations
+request
+tqdm
+opencv-python
