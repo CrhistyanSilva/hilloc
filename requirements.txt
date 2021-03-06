@@ -1,6 +1,6 @@
--r crystack
+-e craystack
 pytest
 observations
-request
+requests
 tqdm
 opencv-python
