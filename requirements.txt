@@ -4,3 +4,5 @@ observations
 requests
 tqdm
 opencv-python
+scipy==1.2.0
+pillow
